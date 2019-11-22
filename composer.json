@@ -25,6 +25,6 @@
         }
     },
     "require": {
-        "wpackagist-theme/understrap":"0.9.4"
+        "wpackagist-theme/understrap":"0.9.3"
     }
 }
